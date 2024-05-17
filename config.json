@@ -121,13 +121,11 @@
 		"region": {
 			"J": "SourceHanSans",
 			"K": "SourceHanSansK",
-			"CL": "SourceHanSansK",
 			"SC": "SourceHanSansSC",
 			"TC": "SourceHanSansTC",
 			"HC": "SourceHanSansHC",
 			"J-HW": "SourceHanSansHW",
 			"K-HW": "SourceHanSansHWK",
-			"CL-HW": "SourceHanSansHWK",
 			"SC-HW": "SourceHanSansHWSC",
 			"TC-HW": "SourceHanSansHWTC",
 			"HC-HW": "SourceHanSansHWHC"
